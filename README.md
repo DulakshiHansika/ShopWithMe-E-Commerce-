@@ -10,6 +10,6 @@ Technologies Used
 - CSS3
 
 Screenshots
-![ShopWithMe](ShopWithMe1.png)
-![ShopWithMe](ShopWithMe2.png)
-![ShopWithMe](ShopWithMe3.png)
+![ShopWithMe1](ShopWithMe1.png)
+![ShopWithMe2](ShopWithMe2.png)
+![ShopWithMe3](ShopWithMe3.png)
