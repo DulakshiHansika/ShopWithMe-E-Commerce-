@@ -1,0 +1,201 @@
+body{background-color:Wight;
+}
+h1{font-size:30px; font-family:Garamond;}
+h2{font-size:24px; font-family:Arial;}
+p{font-size:18px; font-family:comic sans MS; color:black;}
+h1{font-size:30px; font-family:Garamond;}
+
+.div-1{background-color: #f1f1f1;
+	border: 18px solid #f1f1f1;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-right:4px;
+	margin-left: 2x;
+	text-align:center;
+}
+
+.btn-group button {
+	background-color: #003366;
+	border: 1px solid wight;
+	color: white; 
+	padding: 12px 105px; 
+	cursor: pointer; 
+	float: left;
+}
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.btn-group button:not
+  border-right: none; 
+}
+.btn-group button:hover {
+  background-color: wight;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 12px 22px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: green;
+}
+
+
+.img {
+  border-radius: 10%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  /* The image used */
+  background-image: url("foffa.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(1,0,0, 0.9); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 35%;
+  padding: 50px;
+  text-align: center;
+}
+
+.bg-text button {
+  border: 1;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ccccff;
+  text-align: center;
+  cursor: pointer;
+}
+
+.bg-text button:hover {
+  background-color: #555;
+  color: black;
+}
+
+
+
+.btn-group2 button {
+	background-color: #ccccff;
+	border: 10px solid wight;
+	color: black; 
+	padding: 50px 120px; 
+	cursor: pointer; 
+	float: center;
+	font-size: 20;
+}
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.btn-group button:not
+  border-right: none; 
+}
+.btn-group button:hover {
+  background-color: wight;
+}
+
+.div4{background-color: #ffb3b3;
+	border: 8px solid  #ffb3b3;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right:2px;
+	margin-left: 2x;
+	text-align:center;
+	font-size: 33px;
+}
+
+div5.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+
+
+.row {
+   column-count:4;
+   column-width:8;
+  column-gap: 0px;
+  column-rule-style: solid;
+  column-rule-width: 0px;
+  column-rule-color: non;
+  text-align:center;
+}
+
+.button 5{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.div9{background-color: #ffb3b3;
+	border: 8px solid  #ffb3b3;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right:2px;
+	margin-left: 2x;
+	text-align:center;
+	font-size: 33px;
+}
+
+.div10{background-color: #f1f1f1;
+	border: 8px solid  #f1f1f1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right:2px;
+	margin-left: 2x;
+	text-align:center;
+	font-size: 33px;
+}
+
+
+
+
+.div-3{background-color:#476b6b;
