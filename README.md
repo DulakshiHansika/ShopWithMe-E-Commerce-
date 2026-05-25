@@ -1,3 +1,13 @@
-# ShopWithMe-E-Commerce-
-e-commerce landing page using HTML and CSS
+ShopWithMe-E-Commerce landing page using HTML and CSS
 
+This is a e-commerce landing page developed using HTML and CSS as part of a web development assignment.
+
+Project Description
+The index page is designed for an e-commerce website with header, banner section, product categories, and footer.
+
+Technologies Used
+- HTML5
+- CSS3
+
+Screenshots
+![Home](home.png)
